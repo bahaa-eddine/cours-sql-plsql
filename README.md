@@ -2,7 +2,7 @@
 
 > Pr. BE. ELBAGHAZAOUI — ENSA BM
 
-Un cours pour les débutants sur les bases de données relationnelles : du **modèle relationnel** à la **modélisation avec un diagramme ER**, puis au **langage SQL**.
+Un cours sur les bases de données relationnelles : du **modèle relationnel** à la **modélisation avec un diagramme ER**, puis au **langage SQL**.
 Chaque notion est expliquée simplement et accompagnée d'**exemples**, de **résultats attendus** et d'**exercices corrigés**.
 
 ---

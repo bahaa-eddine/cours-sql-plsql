@@ -1,4 +1,4 @@
-# Partie 2 — Le diagramme Entité-Association (ER) pour débutants
+# Partie 2 — Le diagramme Entité-Association (ER)
 
 > Pr. BE. ELBAGHAZAOUI — ENSA BM
 > Objectif : savoir **lire** et **dessiner** un diagramme ER, puis le **traduire en tables SQL**.
@@ -22,7 +22,7 @@
 12. [Méthode pas à pas pour construire un diagramme](#12-méthode-pas-à-pas-pour-construire-un-diagramme)
 13. [Exemples complets](#13-exemples-complets)
 14. [Du diagramme ER aux tables SQL : les règles](#14-du-diagramme-er-aux-tables-sql--les-règles)
-15. [Erreurs fréquentes](#15-erreurs-fréquentes-des-débutants)
+15. [Erreurs fréquentes](#15-erreurs-fréquentes)
 16. [Exercices corrigés](#16-exercices-corrigés)
 
 ---
@@ -566,7 +566,7 @@ erDiagram
     PROFESSEUR ||..o{ COURS : "enseigne"
 ```
 
-> 🎓 **Pour débuter**, vous pouvez utiliser `--` partout : l'essentiel est de bien placer les **cardinalités**.
+> 🎓 **Au début**, vous pouvez utiliser `--` partout : l'essentiel est de bien placer les **cardinalités**.
 
 ---
 
@@ -818,7 +818,7 @@ erDiagram
 
 ---
 
-## 15. Erreurs fréquentes des débutants
+## 15. Erreurs fréquentes
 
 | ❌ Erreur | ✅ Correction |
 |---|---|
